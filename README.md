@@ -1,1 +1,1 @@
-Repository for Go track code from excercism.org
+Repository for Go track code from exercism.org
